@@ -43,7 +43,7 @@
     <Color x:Key="SystemChromeGrayColor">#FF767676</Color>
     <Color x:Key="SystemListLowColor">#19FFFFFF</Color>
     <Color x:Key="SystemListMediumColor">#33FFFFFF</Color>
-    <Color x:Key="SystemErrorTextColor">#FFF000</Color>
+    <Color x:Key="SystemErrorTextColor">#FF0000</Color>
 
     <SolidColorBrush x:Key="SystemControlBackgroundAccentBrush" Color="{m:DynamicColor SystemAccentColor}" />
     <SolidColorBrush x:Key="SystemControlBackgroundAltHighBrush" Color="{m:StaticColor SystemAltHighColor}" />
